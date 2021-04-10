@@ -25,3 +25,9 @@
 0.0.0.0 ads.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 fupload.facebook.com
+0.0.0.0 api.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 mqtt.c10r.facebook.com
+0.0.0.0 portal.fb.com
+0.0.0.0 star.c10r.facebook.com
